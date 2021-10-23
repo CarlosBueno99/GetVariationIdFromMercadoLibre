@@ -1,0 +1,615 @@
+Items
+Retrieves the information of a listed item.
+ResultsAPI Documentation
+collapse all
+{
+  "id": "MLB2026498075",
+  "site_id": "MLB",
+  "title": "Vestido Midi Liganete Feminino Plus Size Fivela No Busto",
+  "subtitle": null,
+  "seller_id": 558140855,
+  "category_id": "MLB108704",
+  "official_store_id": null,
+  "price": 49.99,
+  "base_price": 49.99,
+  "original_price": null,
+  "currency_id": "BRL",
+  "initial_quantity": 16,
+  "available_quantity": 7,
+  "sold_quantity": 0,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tempo de garantia",
+      "value_id": null,
+      "value_name": "30 dias",
+      "value_struct": {
+        "number": 30,
+        "unit": "dias"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "30 dias",
+          "struct": {
+            "number": 30,
+            "unit": "dias"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantia",
+      "value_id": "2230279",
+      "value_name": "Garantia de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantia de fábrica",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2021-09-18T13:16:46.000Z",
+  "stop_time": "2041-09-13T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://produto.mercadolivre.com.br/MLB-2026498075-vestido-midi-liganete-feminino-plus-size-fivela-no-busto-_JM",
+  "thumbnail_id": "865014-MLB47556820684_092021",
+  "thumbnail": "http://http2.mlstatic.com/D_865014-MLB47556820684_092021-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_865014-MLB47556820684_092021-I.jpg",
+  "pictures": [
+    {
+      "id": "865014-MLB47556820684_092021",
+      "url": "http://http2.mlstatic.com/D_865014-MLB47556820684_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_865014-MLB47556820684_092021-O.jpg",
+      "size": "314x500",
+      "max_size": "628x998",
+      "quality": ""
+    },
+    {
+      "id": "983589-MLB47556820677_092021",
+      "url": "http://http2.mlstatic.com/D_983589-MLB47556820677_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_983589-MLB47556820677_092021-O.jpg",
+      "size": "247x500",
+      "max_size": "548x1108",
+      "quality": ""
+    },
+    {
+      "id": "791576-MLB47556820674_092021",
+      "url": "http://http2.mlstatic.com/D_791576-MLB47556820674_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_791576-MLB47556820674_092021-O.jpg",
+      "size": "342x500",
+      "max_size": "702x1024",
+      "quality": ""
+    },
+    {
+      "id": "934535-MLB47556820670_092021",
+      "url": "http://http2.mlstatic.com/D_934535-MLB47556820670_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_934535-MLB47556820670_092021-O.jpg",
+      "size": "365x500",
+      "max_size": "749x1024",
+      "quality": ""
+    },
+    {
+      "id": "807031-MLB47556820675_092021",
+      "url": "http://http2.mlstatic.com/D_807031-MLB47556820675_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_807031-MLB47556820675_092021-O.jpg",
+      "size": "273x500",
+      "max_size": "378x690",
+      "quality": ""
+    },
+    {
+      "id": "677858-MLB47556820685_092021",
+      "url": "http://http2.mlstatic.com/D_677858-MLB47556820685_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_677858-MLB47556820685_092021-O.jpg",
+      "size": "316x500",
+      "max_size": "639x1010",
+      "quality": ""
+    },
+    {
+      "id": "660554-MLB47556820671_092021",
+      "url": "http://http2.mlstatic.com/D_660554-MLB47556820671_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_660554-MLB47556820671_092021-O.jpg",
+      "size": "334x500",
+      "max_size": "686x1024",
+      "quality": ""
+    },
+    {
+      "id": "988655-MLB47556820672_092021",
+      "url": "http://http2.mlstatic.com/D_988655-MLB47556820672_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_988655-MLB47556820672_092021-O.jpg",
+      "size": "372x500",
+      "max_size": "762x1024",
+      "quality": ""
+    },
+    {
+      "id": "995165-MLB47556820682_092021",
+      "url": "http://http2.mlstatic.com/D_995165-MLB47556820682_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_995165-MLB47556820682_092021-O.jpg",
+      "size": "374x500",
+      "max_size": "766x1024",
+      "quality": ""
+    },
+    {
+      "id": "965541-MLB47556820683_092021",
+      "url": "http://http2.mlstatic.com/D_965541-MLB47556820683_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_965541-MLB47556820683_092021-O.jpg",
+      "size": "273x500",
+      "max_size": "560x1024",
+      "quality": ""
+    },
+    {
+      "id": "627323-MLB47556820676_092021",
+      "url": "http://http2.mlstatic.com/D_627323-MLB47556820676_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_627323-MLB47556820676_092021-O.jpg",
+      "size": "316x500",
+      "max_size": "639x1010",
+      "quality": ""
+    },
+    {
+      "id": "759502-MLB47556820680_092021",
+      "url": "http://http2.mlstatic.com/D_759502-MLB47556820680_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_759502-MLB47556820680_092021-O.jpg",
+      "size": "334x500",
+      "max_size": "686x1024",
+      "quality": ""
+    },
+    {
+      "id": "790894-MLB47556820679_092021",
+      "url": "http://http2.mlstatic.com/D_790894-MLB47556820679_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_790894-MLB47556820679_092021-O.jpg",
+      "size": "372x500",
+      "max_size": "762x1024",
+      "quality": ""
+    },
+    {
+      "id": "614908-MLB47556820673_092021",
+      "url": "http://http2.mlstatic.com/D_614908-MLB47556820673_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_614908-MLB47556820673_092021-O.jpg",
+      "size": "374x500",
+      "max_size": "766x1024",
+      "quality": ""
+    },
+    {
+      "id": "608630-MLB47556820678_092021",
+      "url": "http://http2.mlstatic.com/D_608630-MLB47556820678_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_608630-MLB47556820678_092021-O.jpg",
+      "size": "273x500",
+      "max_size": "560x1024",
+      "quality": ""
+    },
+    {
+      "id": "833043-MLB47556820681_092021",
+      "url": "http://http2.mlstatic.com/D_833043-MLB47556820681_092021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_833043-MLB47556820681_092021-O.jpg",
+      "size": "353x500",
+      "max_size": "724x1024",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [
+    {
+      "id": "MLB2026498075-4761288911"
+    }
+  ],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [
+  ],
+  "shipping": {
+    "mode": "me2",
+    "methods": [
+    ],
+    "tags": [
+    ],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": false,
+    "logistic_type": "xd_drop_off",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "BR-SP-44",
+      "name": "São Paulo"
+    },
+    "state": {
+      "id": "BR-SP",
+      "name": "São Paulo"
+    },
+    "country": {
+      "id": "BR",
+      "name": "Brasil"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxCQlZJTGZtaTJ0",
+        "name": "Vila dos Andradas"
+      },
+      "city": {
+        "id": "TUxCQ1NQLTkxMjE",
+        "name": "São Paulo Zona Sul"
+      },
+      "state": {
+        "id": "TUxCUFNBT085N2E4",
+        "name": "São Paulo"
+      }
+    },
+    "id": 1100494863
+  },
+  "seller_contact": null,
+  "location": {
+  },
+  "coverage_areas": [
+  ],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": null,
+      "value_name": "Ilha Modas e Utilidades",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Ilha Modas e Utilidades",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "GENDER",
+      "name": "Gênero",
+      "value_id": "110461",
+      "value_name": "Sem gênero",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "110461",
+          "name": "Sem gênero",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condição do item",
+      "value_id": "2230284",
+      "value_name": "Novo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Novo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "LENGTH_TYPE",
+      "name": "Tipo de comprimento",
+      "value_id": "433370",
+      "value_name": "Médio",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "433370",
+          "name": "Médio",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "MAIN_MATERIAL",
+      "name": "Material principal",
+      "value_id": "466794",
+      "value_name": "Poliéster",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "466794",
+          "name": "Poliéster",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "PLUS SIZE",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "PLUS SIZE",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "OCCASIONS",
+      "name": "Ocasiões",
+      "value_id": "433356",
+      "value_name": "Casual",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "433356",
+          "name": "Casual",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    },
+    {
+      "id": "SLEEVE_TYPE",
+      "name": "Tipo de manga",
+      "value_id": "466804",
+      "value_name": "Curta",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "466804",
+          "name": "Curta",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Outros"
+    }
+  ],
+  "warnings": [
+  ],
+  "listing_source": "",
+  "variations": [
+    {
+      "id": 173675773951,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Azul / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Azul / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "865014-MLB47556820684_092021",
+        "983589-MLB47556820677_092021",
+        "791576-MLB47556820674_092021",
+        "934535-MLB47556820670_092021",
+        "807031-MLB47556820675_092021",
+        "677858-MLB47556820685_092021",
+        "660554-MLB47556820671_092021",
+        "988655-MLB47556820672_092021",
+        "995165-MLB47556820682_092021",
+        "965541-MLB47556820683_092021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173675773952,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Preto / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Preto / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "627323-MLB47556820676_092021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173675773953,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Vermelho / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Vermelho / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "759502-MLB47556820680_092021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173675773954,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Terracota / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Terracota / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "790894-MLB47556820679_092021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173675773955,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Verde escuro / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Verde escuro / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "614908-MLB47556820673_092021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173675773956,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Areia / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Areia / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "608630-MLB47556820678_092021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173675773957,
+      "price": 49.99,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "cor / Tamanho",
+          "value_id": null,
+          "value_name": "Esmeralda / GG",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Esmeralda / GG",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "sale_terms": [
+      ],
+      "picture_ids": [
+        "833043-MLB47556820681_092021"
+      ],
+      "catalog_product_id": null
+    }
+  ],
+  "status": "active",
+  "sub_status": [
+  ],
+  "tags": [
+    "good_quality_picture",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantia de fábrica: 30 dias",
+  "catalog_product_id": null,
+  "domain_id": "MLB-DRESSES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [
+  ],
+  "automatic_relist": false,
+  "date_created": "2021-09-18T13:16:47.000Z",
+  "last_updated": "2021-10-21T00:26:35.081Z",
+  "health": 0.62,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace"
+  ]
+}
+Copyright © 2021 - MercadoLibre
